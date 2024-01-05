@@ -1,0 +1,2 @@
+/notebooks/glove.6B.100d.txt
+/notebooks/glove.word2vec"
