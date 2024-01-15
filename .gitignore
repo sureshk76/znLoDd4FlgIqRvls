@@ -91,3 +91,5 @@ target/
 # downloads
 /notebooks/glove.6B.100d.txt
 /notebooks/glove.word2vec
+/notebooks/cc.en.300.bin
+/notebooks/cc.en.300.bin.gz
