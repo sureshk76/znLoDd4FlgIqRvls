@@ -93,3 +93,8 @@ target/
 /notebooks/glove.word2vec
 /notebooks/cc.en.300.bin
 /notebooks/cc.en.300.bin.gz
+/notebooks/.vector_cache/
+/notebooks/Experiment_3_bow.ipynb
+/notebooks/experiment_1.ipynb
+/notebooks/experiment_2.ipynb
+/notebooks/word2vec.model
